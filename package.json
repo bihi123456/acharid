@@ -1,7 +1,7 @@
 {
   "name": "Natively",
   "version": "1.0.0",
-  "main": "index.ts",
+  "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "dev": "EXPO_NO_TELEMETRY=1 expo start --tunnel",
     "android": "EXPO_NO_TELEMETRY=1 expo start --android",
